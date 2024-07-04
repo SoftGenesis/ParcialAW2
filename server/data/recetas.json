@@ -1,0 +1,456 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bizcocho de Vainilla",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "200g"
+      },
+      {
+        "id": 2,
+        "cantidad": "150g"
+      },
+      {
+        "id": 3,
+        "cantidad": "3 unidades"
+      },
+      {
+        "id": 4,
+        "cantidad": "100ml"
+      },
+      {
+        "id": 5,
+        "cantidad": "100g"
+      },
+      {
+        "id": 8,
+        "cantidad": "1 cucharadita"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Galletas de Chocolate",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "250g"
+      },
+      {
+        "id": 2,
+        "cantidad": "100g"
+      },
+      {
+        "id": 3,
+        "cantidad": "2 unidades"
+      },
+      {
+        "id": 5,
+        "cantidad": "150g"
+      },
+      {
+        "id": 9,
+        "cantidad": "200g"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Tarta de Queso",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "300g"
+      },
+      {
+        "id": 2,
+        "cantidad": "100g"
+      },
+      {
+        "id": 3,
+        "cantidad": "3 unidades"
+      },
+      {
+        "id": 4,
+        "cantidad": "200ml"
+      },
+      {
+        "id": 5,
+        "cantidad": "100g"
+      },
+      {
+        "id": 12,
+        "cantidad": "500g"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Pan Casero",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "500g"
+      },
+      {
+        "id": 6,
+        "cantidad": "1 cucharadita"
+      },
+      {
+        "id": 10,
+        "cantidad": "10g"
+      },
+      {
+        "id": 4,
+        "cantidad": "300ml"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Pancakes",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "200g"
+      },
+      {
+        "id": 2,
+        "cantidad": "50g"
+      },
+      {
+        "id": 3,
+        "cantidad": "2 unidades"
+      },
+      {
+        "id": 4,
+        "cantidad": "100ml"
+      },
+      {
+        "id": 5,
+        "cantidad": "50g"
+      },
+      {
+        "id": 7,
+        "cantidad": "1 cucharadita"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Brownie",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "150g"
+      },
+      {
+        "id": 2,
+        "cantidad": "200g"
+      },
+      {
+        "id": 3,
+        "cantidad": "3 unidades"
+      },
+      {
+        "id": 5,
+        "cantidad": "100g"
+      },
+      {
+        "id": 9,
+        "cantidad": "300g"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Flan",
+    "ingredientes": [
+      {
+        "id": 2,
+        "cantidad": "200g"
+      },
+      {
+        "id": 3,
+        "cantidad": "4 unidades"
+      },
+      {
+        "id": 4,
+        "cantidad": "500ml"
+      },
+      {
+        "id": 8,
+        "cantidad": "1 cucharadita"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Muffins de Arándanos",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "250g"
+      },
+      {
+        "id": 2,
+        "cantidad": "150g"
+      },
+      {
+        "id": 3,
+        "cantidad": "2 unidades"
+      },
+      {
+        "id": 4,
+        "cantidad": "100ml"
+      },
+      {
+        "id": 5,
+        "cantidad": "100g"
+      },
+      {
+        "id": 7,
+        "cantidad": "1 cucharadita"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Pizza",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "400g"
+      },
+      {
+        "id": 6,
+        "cantidad": "1 cucharadita"
+      },
+      {
+        "id": 10,
+        "cantidad": "10g"
+      },
+      {
+        "id": 11,
+        "cantidad": "2 cucharadas"
+      },
+      {
+        "id": 12,
+        "cantidad": "200g"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Crepes",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "100g"
+      },
+      {
+        "id": 2,
+        "cantidad": "50g"
+      },
+      {
+        "id": 3,
+        "cantidad": "2 unidades"
+      },
+      {
+        "id": 4,
+        "cantidad": "200ml"
+      },
+      {
+        "id": 5,
+        "cantidad": "50g"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Cupcakes",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "200g"
+      },
+      {
+        "id": 2,
+        "cantidad": "150g"
+      },
+      {
+        "id": 3,
+        "cantidad": "2 unidades"
+      },
+      {
+        "id": 4,
+        "cantidad": "100ml"
+      },
+      {
+        "id": 5,
+        "cantidad": "100g"
+      },
+      {
+        "id": 7,
+        "cantidad": "1 cucharadita"
+      },
+      {
+        "id": 8,
+        "cantidad": "1 cucharadita"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Empanadas",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "300g"
+      },
+      {
+        "id": 2,
+        "cantidad": "50g"
+      },
+      {
+        "id": 3,
+        "cantidad": "1 unidad"
+      },
+      {
+        "id": 5,
+        "cantidad": "100g"
+      },
+      {
+        "id": 11,
+        "cantidad": "2 cucharadas"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Magdalenas",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "250g"
+      },
+      {
+        "id": 2,
+        "cantidad": "150g"
+      },
+      {
+        "id": 3,
+        "cantidad": "3 unidades"
+      },
+      {
+        "id": 4,
+        "cantidad": "100ml"
+      },
+      {
+        "id": 5,
+        "cantidad": "100g"
+      },
+      {
+        "id": 7,
+        "cantidad": "1 cucharadita"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Pan de Plátano",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "200g"
+      },
+      {
+        "id": 2,
+        "cantidad": "100g"
+      },
+      {
+        "id": 3,
+        "cantidad": "2 unidades"
+      },
+      {
+        "id": 5,
+        "cantidad": "100g"
+      },
+      {
+        "id": 8,
+        "cantidad": "1 cucharadita"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Croissants",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "300g"
+      },
+      {
+        "id": 2,
+        "cantidad": "50g"
+      },
+      {
+        "id": 3,
+        "cantidad": "2 unidades"
+      },
+      {
+        "id": 5,
+        "cantidad": "200g"
+      },
+      {
+        "id": 10,
+        "cantidad": "15g"
+      },
+      {
+        "id": 6,
+        "cantidad": "1 cucharadita"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Churros",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "250g"
+      },
+      {
+        "id": 2,
+        "cantidad": "50g"
+      },
+      {
+        "id": 3,
+        "cantidad": "2 unidades"
+      },
+      {
+        "id": 4,
+        "cantidad": "200ml"
+      },
+      {
+        "id": 6,
+        "cantidad": "1 cucharadita"
+      },
+      {
+        "id": 11,
+        "cantidad": "500ml"
+      }
+    ]
+  },
+  {
+    "nombre": "Torta Frita",
+    "ingredientes": [
+      {
+        "id": 1,
+        "cantidad": "200g"
+      }
+    ],
+    "id": 17
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Harina"
+  },
+  {
+    "id": 2,
+    "nombre": "Azúcar"
+  },
+  {
+    "id": 3,
+    "nombre": "Huevo"
+  },
+  {
+    "id": 4,
+    "nombre": "Leche"
+  },
+  {
+    "id": 5,
+    "nombre": "Mantequilla"
+  },
+  {
+    "id": 6,
+    "nombre": "Sal"
+  },
+  {
+    "id": 7,
+    "nombre": "Polvo de hornear"
+  },
+  {
+    "id": 8,
+    "nombre": "Vainilla"
+  },
+  {
+    "id": 9,
+    "nombre": "Chocolate"
+  },
+  {
+    "id": 10,
+    "nombre": "Levadura"
+  },
+  {
+    "id": 11,
+    "nombre": "Aceite"
+  },
+  {
+    "id": 12,
+    "nombre": "Queso"
+  },
+  {
+    "nombre": "coco",
+    "id": 13
+  },
+  {
+    "nombre": "Nueces",
+    "id": 14
+  }
+]
